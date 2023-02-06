@@ -1,0 +1,3 @@
+@ensdomains/=node_modules/@ensdomains/
+@solidity-parser/=node_modules/solhint/node_modules/@solidity-parser/
+hardhat/=node_modules/hardhat/
