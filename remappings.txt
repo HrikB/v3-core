@@ -1,3 +1,7 @@
 @ensdomains/=node_modules/@ensdomains/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
 @solidity-parser/=node_modules/solhint/node_modules/@solidity-parser/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
 hardhat/=node_modules/hardhat/
+
